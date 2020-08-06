@@ -9,6 +9,8 @@ To Use This Tool You Have To Follow The Step #1 Given Below
 
 Step1.
 First You Have To Apply The Following Commands
+
+
 pkg update -y
 pkg upgrade -y
 pkg install git -y
