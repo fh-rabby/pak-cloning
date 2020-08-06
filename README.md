@@ -1,6 +1,6 @@
 #Saved by Fazle Rabby
 
-<Thanks to badshahsarfraz>
+Thanks to badshahsarfraz
 
 Assalam o Alaikum Friends
 How Are You
