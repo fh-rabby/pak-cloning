@@ -9,7 +9,7 @@ To Use This Tool You Have To Follow The Step #1 Given Below
 
 Step1.
 First You Have To Apply The Following Commands
-pkg update
+pkg update</br>
 pkg upgrade
 pkg install git
 pkg install python
