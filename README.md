@@ -2,7 +2,7 @@
 
 Thanks to badshahsarfraz
 
-Assalam o Alaikum Friends
+Assalamu Alaikum Friends
 How Are You
 
 To Use This Tool You Have To Follow The Step #1 Given Below
